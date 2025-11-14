@@ -45,16 +45,18 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+<img width="970" height="645" alt="Screenshot 2025-11-12 092557" src="https://github.com/user-attachments/assets/0f96b49b-1669-4d23-8ce1-820593ccbae9" />
 
 
 b.  KCL:
  
+<img width="1330" height="695" alt="Screenshot 2025-11-12 230104" src="https://github.com/user-attachments/assets/b6a18c95-2bf0-4401-af21-a8dbb1bdf206" />
 
 Calculation:
 
 a.   KVL:
  
-
+$$ V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega} $$
 
 b.  KCL:
 
