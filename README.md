@@ -68,6 +68,7 @@ $$ V_{3}=V_{100\Omega}=IR_{3}=0.556\times 100=55.6V $$
 
 
 b.  KCL:
+
 $$ i_{30\Omega}=I_{50\Omega}+I_{100\Omega}$$
 $$ i_{30\Omega}=100-V/30 $$
 $$ i_{50\Omega}=V/50 $$
